@@ -53,7 +53,10 @@ Planned:
 <h2>Docker NGINX Server</h2>
 Within this directory run:
 
+* `chmod -R ugo+rwx geodata`
 * `docker pull nginx`
-* `docker run -it --rm -d -p 80:80 -v geodata:/usr/share/nginx/html nginx`
+* `sudo docker run -it --rm -d -p 80:80 -v $(pwd)geodata:/usr/share/nginx/html nginx`
 
 <img src="./media/3979453966736A667257656F36513D3D.png" alt="FeatureDisabled" width="1000px"/>
+
+Read more about [securing]() Docker containers.
