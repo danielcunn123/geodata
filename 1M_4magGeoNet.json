@@ -1,0 +1,1491 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            171.3412933,
+            -42.40462875
+          ]
+        },
+        "properties": {
+          "publicid": "2022p725774",
+          "eventtype": "earthquake",
+          "origintime": "2022-09-26T12:52:52.794Z",
+          "modificationtime": "2022-09-26T13:22:18.970Z",
+          "depth": "5",
+          "depthtype": "operator assigned",
+          "magnitude": "4.740902378",
+          "magnitudetype": "MLv",
+          "evaluationmethod": "LOCSAT",
+          "evaluationstatus": "confirmed",
+          "evaluationmode": "manual",
+          "earthmodel": "iasp91",
+          "usedphasecount": "24",
+          "usedstationcount": "16",
+          "minimumdistance": "0.1290315539",
+          "azimuthalgap": "154.970089",
+          "magnitudeuncertainty": "0.1782887182",
+          "originerror": "0.4192038093",
+          "magnitudestationcount": "92"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            167.3527832,
+            -45.14219666
+          ]
+        },
+        "properties": {
+          "publicid": "2022p725560",
+          "eventtype": "earthquake",
+          "origintime": "2022-09-26T10:58:53.665Z",
+          "modificationtime": "2022-09-26T11:04:49.979Z",
+          "depth": "98.2227478",
+          "magnitude": "4.005538602",
+          "magnitudetype": "M",
+          "evaluationmethod": "LOCSAT",
+          "evaluationstatus": "confirmed",
+          "evaluationmode": "manual",
+          "earthmodel": "iasp91",
+          "usedphasecount": "31",
+          "usedstationcount": "19",
+          "minimumdistance": "0.3094614148",
+          "azimuthalgap": "154.8875656",
+          "originerror": "0.6774472874",
+          "magnitudestationcount": "19"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -179.5827789,
+            -34.99780273
+          ]
+        },
+        "properties": {
+          "publicid": "2022p721306",
+          "eventtype": "earthquake",
+          "origintime": "2022-09-24T21:11:39.431Z",
+          "modificationtime": "2022-09-24T21:18:16.657Z",
+          "depth": "100",
+          "depthtype": "operator assigned",
+          "magnitude": "4.528277109",
+          "magnitudetype": "M",
+          "evaluationmethod": "LOCSAT",
+          "evaluationstatus": "confirmed",
+          "evaluationmode": "manual",
+          "earthmodel": "iasp91",
+          "usedphasecount": "32",
+          "usedstationcount": "29",
+          "minimumdistance": "3.075191975",
+          "azimuthalgap": "299.3050079",
+          "originerror": "0.5453259332",
+          "magnitudestationcount": "28"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -178.7359924,
+            -34.43255997
+          ]
+        },
+        "properties": {
+          "publicid": "2022p719060",
+          "eventtype": "earthquake",
+          "origintime": "2022-09-24T01:14:23.339Z",
+          "modificationtime": "2022-09-24T01:20:42.733Z",
+          "depth": "33",
+          "depthtype": "operator assigned",
+          "magnitude": "5.131768732",
+          "magnitudetype": "mB",
+          "evaluationmethod": "LOCSAT",
+          "evaluationstatus": "confirmed",
+          "evaluationmode": "manual",
+          "earthmodel": "iasp91",
+          "usedphasecount": "34",
+          "usedstationcount": "29",
+          "minimumdistance": "3.937158585",
+          "azimuthalgap": "162.7036281",
+          "magnitudeuncertainty": "0.1308952319",
+          "originerror": "1.493089602",
+          "magnitudestationcount": "10"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -178.6289062,
+            -34.68701935
+          ]
+        },
+        "properties": {
+          "publicid": "2022p717204",
+          "eventtype": "earthquake",
+          "origintime": "2022-09-23T08:45:46.646Z",
+          "modificationtime": "2022-09-23T08:58:20.805Z",
+          "depth": "100",
+          "depthtype": "operator assigned",
+          "magnitude": "4.051332014",
+          "magnitudetype": "MLv",
+          "evaluationmethod": "LOCSAT",
+          "evaluationstatus": "confirmed",
+          "evaluationmode": "manual",
+          "earthmodel": "iasp91",
+          "usedphasecount": "25",
+          "usedstationcount": "19",
+          "minimumdistance": "3.933896065",
+          "azimuthalgap": "307.8631592",
+          "magnitudeuncertainty": "0.1299314908",
+          "originerror": "0.6343416952",
+          "magnitudestationcount": "9"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -178.7930908,
+            -34.94432831
+          ]
+        },
+        "properties": {
+          "publicid": "2022p716364",
+          "eventtype": "earthquake",
+          "origintime": "2022-09-23T01:18:43.806Z",
+          "modificationtime": "2022-09-23T03:03:22.053Z",
+          "depth": "33",
+          "depthtype": "operator assigned",
+          "magnitude": "4.430406401",
+          "magnitudetype": "MLv",
+          "evaluationmethod": "LOCSAT",
+          "evaluationstatus": "confirmed",
+          "evaluationmode": "manual",
+          "earthmodel": "iasp91",
+          "usedphasecount": "30",
+          "usedstationcount": "24",
+          "minimumdistance": "3.509771347",
+          "azimuthalgap": "264.4942322",
+          "magnitudeuncertainty": "0.1436459808",
+          "originerror": "0.6733838273",
+          "magnitudestationcount": "13"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -179.9334259,
+            -32.68582916
+          ]
+        },
+        "properties": {
+          "publicid": "2022p716053",
+          "eventtype": "earthquake",
+          "origintime": "2022-09-22T22:31:59.410Z",
+          "modificationtime": "2022-09-22T22:39:15.185Z",
+          "depth": "300",
+          "depthtype": "operator assigned",
+          "magnitude": "4.509761503",
+          "magnitudetype": "mB",
+          "evaluationmethod": "LOCSAT",
+          "evaluationstatus": "confirmed",
+          "evaluationmode": "manual",
+          "earthmodel": "iasp91",
+          "usedphasecount": "24",
+          "usedstationcount": "19",
+          "minimumdistance": "5.074363708",
+          "azimuthalgap": "346.4519653",
+          "magnitudeuncertainty": "0.1270887766",
+          "originerror": "0.7912545502",
+          "magnitudestationcount": "3"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            174.2040863,
+            -40.80593109
+          ]
+        },
+        "properties": {
+          "publicid": "2022p714540",
+          "eventtype": "earthquake",
+          "origintime": "2022-09-22T09:07:06.551Z",
+          "modificationtime": "2022-09-22T09:11:56.201Z",
+          "depth": "50.67871857",
+          "magnitude": "5.789913449",
+          "magnitudetype": "MLv",
+          "evaluationmethod": "LOCSAT",
+          "evaluationstatus": "confirmed",
+          "evaluationmode": "manual",
+          "earthmodel": "iasp91",
+          "usedphasecount": "38",
+          "usedstationcount": "32",
+          "minimumdistance": "0.2144465148",
+          "azimuthalgap": "78.65493774",
+          "magnitudeuncertainty": "0.12331613",
+          "originerror": "0.4195817872",
+          "magnitudestationcount": "48"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            177.0544281,
+            -36.80990219
+          ]
+        },
+        "properties": {
+          "publicid": "2022p714016",
+          "eventtype": "earthquake",
+          "origintime": "2022-09-22T04:28:20.890Z",
+          "modificationtime": "2022-09-22T04:44:52.839Z",
+          "depth": "225.275589",
+          "magnitude": "4.841908792",
+          "magnitudetype": "MLv",
+          "evaluationmethod": "LOCSAT",
+          "evaluationstatus": "confirmed",
+          "evaluationmode": "manual",
+          "earthmodel": "iasp91",
+          "usedphasecount": "58",
+          "usedstationcount": "45",
+          "minimumdistance": "0.8024545312",
+          "azimuthalgap": "193.7997055",
+          "magnitudeuncertainty": "0.472880139",
+          "originerror": "0.5482132585",
+          "magnitudestationcount": "113"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -178.873703,
+            -34.89780045
+          ]
+        },
+        "properties": {
+          "publicid": "2022p713452",
+          "eventtype": "earthquake",
+          "origintime": "2022-09-21T23:27:11.472Z",
+          "modificationtime": "2022-09-21T23:39:04.653Z",
+          "depth": "33",
+          "depthtype": "operator assigned",
+          "magnitude": "4.491739287",
+          "magnitudetype": "M",
+          "evaluationmethod": "LOCSAT",
+          "evaluationstatus": "confirmed",
+          "evaluationmode": "manual",
+          "earthmodel": "iasp91",
+          "usedphasecount": "24",
+          "usedstationcount": "18",
+          "minimumdistance": "3.50215745",
+          "azimuthalgap": "264.6109314",
+          "originerror": "0.5131354103",
+          "magnitudestationcount": "8"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -178.8386993,
+            -34.97192383
+          ]
+        },
+        "properties": {
+          "publicid": "2022p712664",
+          "eventtype": "earthquake",
+          "origintime": "2022-09-21T16:27:04.458Z",
+          "modificationtime": "2022-09-21T16:36:08.983Z",
+          "depth": "33",
+          "depthtype": "operator assigned",
+          "magnitude": "4.699527855",
+          "magnitudetype": "mB",
+          "evaluationmethod": "LOCSAT",
+          "evaluationstatus": "confirmed",
+          "evaluationmode": "manual",
+          "earthmodel": "iasp91",
+          "usedphasecount": "29",
+          "usedstationcount": "24",
+          "minimumdistance": "3.464418888",
+          "azimuthalgap": "305.4382629",
+          "magnitudeuncertainty": "0.1278276575",
+          "originerror": "0.5003346799",
+          "magnitudestationcount": "7"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -178.8078461,
+            -34.82626724
+          ]
+        },
+        "properties": {
+          "publicid": "2022p710801",
+          "eventtype": "earthquake",
+          "origintime": "2022-09-20T23:54:57.209Z",
+          "modificationtime": "2022-09-20T23:59:38.818Z",
+          "depth": "100",
+          "depthtype": "operator assigned",
+          "magnitude": "4.426630298",
+          "magnitudetype": "MLv",
+          "evaluationmethod": "LOCSAT",
+          "evaluationstatus": "confirmed",
+          "evaluationmode": "manual",
+          "earthmodel": "iasp91",
+          "usedphasecount": "23",
+          "usedstationcount": "17",
+          "minimumdistance": "3.734703541",
+          "azimuthalgap": "202.400146",
+          "magnitudeuncertainty": "0.04794320621",
+          "originerror": "1.276290257",
+          "magnitudestationcount": "9"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -178.9293671,
+            -35.19441986
+          ]
+        },
+        "properties": {
+          "publicid": "2022p710092",
+          "eventtype": "earthquake",
+          "origintime": "2022-09-20T17:36:50.892Z",
+          "modificationtime": "2022-09-20T17:41:27.349Z",
+          "depth": "184.7922363",
+          "magnitude": "4.176728436",
+          "magnitudetype": "M",
+          "evaluationmethod": "LOCSAT",
+          "evaluationstatus": "confirmed",
+          "evaluationmode": "manual",
+          "earthmodel": "iasp91",
+          "usedphasecount": "22",
+          "usedstationcount": "18",
+          "minimumdistance": "3.381952286",
+          "azimuthalgap": "332.7082367",
+          "originerror": "0.4997073864",
+          "magnitudestationcount": "4"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -178.9951324,
+            -34.99580002
+          ]
+        },
+        "properties": {
+          "publicid": "2022p710086",
+          "eventtype": "earthquake",
+          "origintime": "2022-09-20T17:33:45.596Z",
+          "modificationtime": "2022-09-20T17:40:11.136Z",
+          "depth": "100",
+          "depthtype": "operator assigned",
+          "magnitude": "4.755254193",
+          "magnitudetype": "M",
+          "evaluationmethod": "LOCSAT",
+          "evaluationstatus": "confirmed",
+          "evaluationmode": "manual",
+          "earthmodel": "iasp91",
+          "usedphasecount": "19",
+          "usedstationcount": "15",
+          "minimumdistance": "3.363212347",
+          "azimuthalgap": "306.2435303",
+          "originerror": "0.5898115404",
+          "magnitudestationcount": "13"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -178.9581299,
+            -34.95629883
+          ]
+        },
+        "properties": {
+          "publicid": "2022p709731",
+          "eventtype": "earthquake",
+          "origintime": "2022-09-20T14:24:22.969Z",
+          "modificationtime": "2022-09-20T14:35:31.599Z",
+          "depth": "89.60979462",
+          "magnitude": "4.048415168",
+          "magnitudetype": "M",
+          "evaluationmethod": "LOCSAT",
+          "evaluationstatus": "confirmed",
+          "evaluationmode": "manual",
+          "earthmodel": "iasp91",
+          "usedphasecount": "20",
+          "usedstationcount": "16",
+          "minimumdistance": "3.557157993",
+          "azimuthalgap": "304.5755005",
+          "originerror": "0.7222583694",
+          "magnitudestationcount": "4"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -178.8077698,
+            -34.94970703
+          ]
+        },
+        "properties": {
+          "publicid": "2022p709659",
+          "eventtype": "earthquake",
+          "origintime": "2022-09-20T13:46:23.699Z",
+          "modificationtime": "2022-09-20T13:50:49.205Z",
+          "depth": "100",
+          "depthtype": "operator assigned",
+          "magnitude": "4.636534091",
+          "magnitudetype": "M",
+          "evaluationmethod": "LOCSAT",
+          "evaluationstatus": "confirmed",
+          "evaluationmode": "manual",
+          "earthmodel": "iasp91",
+          "usedphasecount": "28",
+          "usedstationcount": "21",
+          "minimumdistance": "3.497808933",
+          "azimuthalgap": "313.0702057",
+          "originerror": "0.6653388048",
+          "magnitudestationcount": "13"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -178.9894714,
+            -33.46591187
+          ]
+        },
+        "properties": {
+          "publicid": "2022p708907",
+          "eventtype": "earthquake",
+          "origintime": "2022-09-20T07:05:55.639Z",
+          "modificationtime": "2022-09-20T07:19:34.202Z",
+          "depth": "33",
+          "depthtype": "operator assigned",
+          "magnitude": "5.223146017",
+          "magnitudetype": "mB",
+          "evaluationmethod": "LOCSAT",
+          "evaluationstatus": "confirmed",
+          "evaluationmode": "manual",
+          "earthmodel": "iasp91",
+          "usedphasecount": "21",
+          "usedstationcount": "18",
+          "minimumdistance": "4.28951025",
+          "azimuthalgap": "191.418313",
+          "magnitudeuncertainty": "0.1949390073",
+          "originerror": "1.409120255",
+          "magnitudestationcount": "27"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            179.4426117,
+            -35.74578094
+          ]
+        },
+        "properties": {
+          "publicid": "2022p706749",
+          "eventtype": "earthquake",
+          "origintime": "2022-09-19T11:56:17.333Z",
+          "modificationtime": "2022-09-19T12:10:27.653Z",
+          "depth": "107.2211533",
+          "magnitude": "4.304433278",
+          "magnitudetype": "M",
+          "evaluationmethod": "LOCSAT",
+          "evaluationstatus": "confirmed",
+          "evaluationmode": "manual",
+          "earthmodel": "iasp91",
+          "usedphasecount": "28",
+          "usedstationcount": "22",
+          "minimumdistance": "2.227717876",
+          "azimuthalgap": "284.9125519",
+          "originerror": "0.7657662939",
+          "magnitudestationcount": "22"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            176.84729,
+            -36.92475891
+          ]
+        },
+        "properties": {
+          "publicid": "2022p696106",
+          "eventtype": "earthquake",
+          "origintime": "2022-09-15T13:25:43.649Z",
+          "modificationtime": "2022-09-15T13:31:48.577Z",
+          "depth": "272.3989258",
+          "magnitude": "4.273037918",
+          "magnitudetype": "MLv",
+          "evaluationmethod": "LOCSAT",
+          "evaluationstatus": "confirmed",
+          "evaluationmode": "manual",
+          "earthmodel": "iasp91",
+          "usedphasecount": "41",
+          "usedstationcount": "32",
+          "minimumdistance": "0.6006997228",
+          "azimuthalgap": "177.1896439",
+          "magnitudeuncertainty": "0.5203698584",
+          "originerror": "0.582962952",
+          "magnitudestationcount": "99"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            178.8922882,
+            -33.752491
+          ]
+        },
+        "properties": {
+          "publicid": "2022p695696",
+          "eventtype": "earthquake",
+          "origintime": "2022-09-15T09:46:33.616Z",
+          "modificationtime": "2022-09-15T09:56:02.202Z",
+          "depth": "362.6517639",
+          "magnitude": "4.031507398",
+          "magnitudetype": "mB",
+          "evaluationmethod": "LOCSAT",
+          "evaluationstatus": "confirmed",
+          "evaluationmode": "manual",
+          "earthmodel": "iasp91",
+          "usedphasecount": "16",
+          "usedstationcount": "12",
+          "minimumdistance": "4.07640934",
+          "azimuthalgap": "344.5268555",
+          "magnitudeuncertainty": "0.1721153407",
+          "originerror": "0.4134759874",
+          "magnitudestationcount": "3"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            167.6450806,
+            -44.93540955
+          ]
+        },
+        "properties": {
+          "publicid": "2022p693594",
+          "eventtype": "earthquake",
+          "origintime": "2022-09-14T15:07:15.091Z",
+          "modificationtime": "2022-09-27T22:55:15.271Z",
+          "depth": "58.15795135",
+          "magnitude": "4.201495061",
+          "magnitudetype": "MLv",
+          "evaluationmethod": "LOCSAT",
+          "evaluationstatus": "confirmed",
+          "evaluationmode": "manual",
+          "earthmodel": "iasp91",
+          "usedphasecount": "34",
+          "usedstationcount": "23",
+          "minimumdistance": "0.3298161626",
+          "azimuthalgap": "161.6522102",
+          "magnitudeuncertainty": "0.2342643254",
+          "originerror": "0.5454210264",
+          "magnitudestationcount": "24"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            179.7094727,
+            -33.64061356
+          ]
+        },
+        "properties": {
+          "publicid": "2022p689325",
+          "eventtype": "earthquake",
+          "origintime": "2022-09-13T01:12:13.448Z",
+          "modificationtime": "2022-09-13T04:33:02.948Z",
+          "depth": "300",
+          "depthtype": "operator assigned",
+          "magnitude": "4.781840327",
+          "magnitudetype": "mB",
+          "evaluationmethod": "LOCSAT",
+          "evaluationstatus": "confirmed",
+          "evaluationmode": "manual",
+          "earthmodel": "iasp91",
+          "usedphasecount": "17",
+          "usedstationcount": "12",
+          "minimumdistance": "4.07651329",
+          "azimuthalgap": "336.2416687",
+          "magnitudeuncertainty": "0.2043307811",
+          "originerror": "1.017715453",
+          "magnitudestationcount": "7"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            178.2494507,
+            -35.78601837
+          ]
+        },
+        "properties": {
+          "publicid": "2022p687226",
+          "eventtype": "earthquake",
+          "origintime": "2022-09-12T06:34:06.015Z",
+          "modificationtime": "2022-09-27T21:46:30.092Z",
+          "depth": "189.5835876",
+          "magnitude": "4.647490022",
+          "magnitudetype": "MLv",
+          "evaluationmethod": "LOCSAT",
+          "evaluationstatus": "confirmed",
+          "evaluationmode": "manual",
+          "earthmodel": "iasp91",
+          "usedphasecount": "36",
+          "usedstationcount": "28",
+          "minimumdistance": "1.773385286",
+          "azimuthalgap": "259.1898499",
+          "magnitudeuncertainty": "0.2963856871",
+          "originerror": "0.6137505081",
+          "magnitudestationcount": "66"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -178.2073975,
+            -34.07904053
+          ]
+        },
+        "properties": {
+          "publicid": "2022p685528",
+          "eventtype": "earthquake",
+          "origintime": "2022-09-11T15:28:42.280Z",
+          "modificationtime": "2022-09-27T21:28:14.234Z",
+          "depth": "33",
+          "depthtype": "operator assigned",
+          "magnitude": "4.243360252",
+          "magnitudetype": "MLv",
+          "evaluationmethod": "LOCSAT",
+          "evaluationstatus": "confirmed",
+          "evaluationmode": "manual",
+          "earthmodel": "iasp91",
+          "usedphasecount": "21",
+          "usedstationcount": "12",
+          "minimumdistance": "4.629581928",
+          "azimuthalgap": "314.2077484",
+          "magnitudeuncertainty": "0.06839028559",
+          "originerror": "0.9327628494",
+          "magnitudestationcount": "7"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -178.3399353,
+            -34.38762283
+          ]
+        },
+        "properties": {
+          "publicid": "2022p685261",
+          "eventtype": "earthquake",
+          "origintime": "2022-09-11T13:06:43.603Z",
+          "modificationtime": "2022-09-27T21:00:03.309Z",
+          "depth": "33",
+          "depthtype": "operator assigned",
+          "magnitude": "4.687165441",
+          "magnitudetype": "mB",
+          "evaluationmethod": "LOCSAT",
+          "evaluationstatus": "confirmed",
+          "evaluationmode": "manual",
+          "earthmodel": "iasp91",
+          "usedphasecount": "24",
+          "usedstationcount": "16",
+          "minimumdistance": "4.174868584",
+          "azimuthalgap": "271.769043",
+          "magnitudeuncertainty": "0.2797698985",
+          "originerror": "0.7590723167",
+          "magnitudestationcount": "6"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -178.3506317,
+            -33.977005
+          ]
+        },
+        "properties": {
+          "publicid": "2022p685112",
+          "eventtype": "earthquake",
+          "origintime": "2022-09-11T11:45:21.276Z",
+          "modificationtime": "2022-09-27T20:49:21.303Z",
+          "depth": "33",
+          "depthtype": "operator assigned",
+          "magnitude": "4.915214376",
+          "magnitudetype": "mB",
+          "evaluationmethod": "LOCSAT",
+          "evaluationstatus": "confirmed",
+          "evaluationmode": "manual",
+          "earthmodel": "iasp91",
+          "usedphasecount": "25",
+          "usedstationcount": "16",
+          "minimumdistance": "4.646365166",
+          "azimuthalgap": "168.0467091",
+          "magnitudeuncertainty": "0.09152327154",
+          "originerror": "1.042591577",
+          "magnitudestationcount": "7"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -178.4629211,
+            -33.80342102
+          ]
+        },
+        "properties": {
+          "publicid": "2022p685108",
+          "eventtype": "earthquake",
+          "origintime": "2022-09-11T11:42:25.443Z",
+          "modificationtime": "2022-09-27T20:41:37.962Z",
+          "depth": "33",
+          "depthtype": "operator assigned",
+          "magnitude": "4.536289258",
+          "magnitudetype": "MLv",
+          "evaluationmethod": "LOCSAT",
+          "evaluationstatus": "confirmed",
+          "evaluationmode": "manual",
+          "earthmodel": "iasp91",
+          "usedphasecount": "17",
+          "usedstationcount": "13",
+          "minimumdistance": "4.551211834",
+          "azimuthalgap": "202.9469852",
+          "originerror": "1.310653901",
+          "magnitudestationcount": "1"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -178.2268982,
+            -33.88873672
+          ]
+        },
+        "properties": {
+          "publicid": "2022p685098",
+          "eventtype": "earthquake",
+          "origintime": "2022-09-11T11:40:16.111Z",
+          "modificationtime": "2022-09-27T20:33:18.209Z",
+          "depth": "33",
+          "depthtype": "operator assigned",
+          "magnitude": "4.916584144",
+          "magnitudetype": "mB",
+          "evaluationmethod": "LOCSAT",
+          "evaluationstatus": "confirmed",
+          "evaluationmode": "manual",
+          "earthmodel": "iasp91",
+          "usedphasecount": "23",
+          "usedstationcount": "19",
+          "minimumdistance": "4.620094299",
+          "azimuthalgap": "169.8782582",
+          "magnitudeuncertainty": "0.2039823968",
+          "originerror": "0.9721086127",
+          "magnitudestationcount": "13"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -179.0576935,
+            -36.66362762
+          ]
+        },
+        "properties": {
+          "publicid": "2022p682234",
+          "eventtype": "earthquake",
+          "origintime": "2022-09-10T10:14:48.547Z",
+          "modificationtime": "2022-09-27T03:49:35.501Z",
+          "depth": "33",
+          "depthtype": "operator assigned",
+          "magnitude": "4.01227506",
+          "magnitudetype": "MLv",
+          "evaluationmethod": "LOCSAT",
+          "evaluationstatus": "confirmed",
+          "evaluationmode": "manual",
+          "earthmodel": "iasp91",
+          "usedphasecount": "29",
+          "usedstationcount": "19",
+          "minimumdistance": "2.289811611",
+          "azimuthalgap": "319.382309",
+          "magnitudeuncertainty": "0.2372514572",
+          "originerror": "0.6397209487",
+          "magnitudestationcount": "19"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            176.0004578,
+            -38.78856659
+          ]
+        },
+        "properties": {
+          "publicid": "2022p680474",
+          "eventtype": "earthquake",
+          "origintime": "2022-09-09T18:36:36.050Z",
+          "modificationtime": "2022-09-12T02:51:42.895Z",
+          "depth": "5",
+          "depthtype": "operator assigned",
+          "magnitude": "4.231827311",
+          "magnitudetype": "MLv",
+          "evaluationmethod": "LOCSAT",
+          "evaluationstatus": "confirmed",
+          "evaluationmode": "manual",
+          "earthmodel": "iasp91",
+          "usedphasecount": "25",
+          "usedstationcount": "22",
+          "minimumdistance": "0.1147581488",
+          "azimuthalgap": "36.61799622",
+          "magnitudeuncertainty": "0.1545587897",
+          "originerror": "0.3888840635",
+          "magnitudestationcount": "109"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            177.4993744,
+            -37.04492569
+          ]
+        },
+        "properties": {
+          "publicid": "2022p679696",
+          "eventtype": "earthquake",
+          "origintime": "2022-09-09T11:42:24.666Z",
+          "modificationtime": "2022-09-21T02:11:32.240Z",
+          "depth": "5",
+          "depthtype": "operator assigned",
+          "magnitude": "4.288895036",
+          "magnitudetype": "MLv",
+          "evaluationmethod": "LOCSAT",
+          "evaluationstatus": "confirmed",
+          "evaluationmode": "manual",
+          "earthmodel": "iasp91",
+          "usedphasecount": "32",
+          "usedstationcount": "26",
+          "minimumdistance": "0.7448750734",
+          "azimuthalgap": "190.1768036",
+          "magnitudeuncertainty": "0.2389335788",
+          "originerror": "0.5799012115",
+          "magnitudestationcount": "96"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -178.1782379,
+            -34.12984467
+          ]
+        },
+        "properties": {
+          "publicid": "2022p678037",
+          "eventtype": "earthquake",
+          "origintime": "2022-09-08T20:57:34.024Z",
+          "modificationtime": "2022-09-21T01:12:30.443Z",
+          "depth": "33",
+          "depthtype": "operator assigned",
+          "magnitude": "4.393257566",
+          "magnitudetype": "MLv",
+          "evaluationmethod": "LOCSAT",
+          "evaluationstatus": "confirmed",
+          "evaluationmode": "manual",
+          "earthmodel": "iasp91",
+          "usedphasecount": "23",
+          "usedstationcount": "14",
+          "minimumdistance": "4.458743572",
+          "azimuthalgap": "314.2734833",
+          "magnitudeuncertainty": "0.08759375638",
+          "originerror": "0.7060158137",
+          "magnitudestationcount": "11"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            179.8856354,
+            -33.11033249
+          ]
+        },
+        "properties": {
+          "publicid": "2022p674937",
+          "eventtype": "earthquake",
+          "origintime": "2022-09-07T17:25:44.496Z",
+          "modificationtime": "2022-09-21T00:07:09.058Z",
+          "depth": "322.1357727",
+          "magnitude": "4.34497625",
+          "magnitudetype": "MLv",
+          "evaluationmethod": "LOCSAT",
+          "evaluationstatus": "confirmed",
+          "evaluationmode": "manual",
+          "earthmodel": "iasp91",
+          "usedphasecount": "29",
+          "usedstationcount": "21",
+          "minimumdistance": "4.625534058",
+          "azimuthalgap": "307.502533",
+          "magnitudeuncertainty": "0.1391422226",
+          "originerror": "0.8931184173",
+          "magnitudestationcount": "11"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -177.7460327,
+            -33.02047729
+          ]
+        },
+        "properties": {
+          "publicid": "2022p674693",
+          "eventtype": "earthquake",
+          "origintime": "2022-09-07T15:15:22.864Z",
+          "modificationtime": "2022-09-21T00:00:12.856Z",
+          "depth": "33",
+          "depthtype": "operator assigned",
+          "magnitude": "4.201515172",
+          "magnitudetype": "MLv",
+          "evaluationmethod": "LOCSAT",
+          "evaluationstatus": "confirmed",
+          "evaluationmode": "manual",
+          "earthmodel": "iasp91",
+          "usedphasecount": "17",
+          "usedstationcount": "12",
+          "minimumdistance": "5.721971512",
+          "azimuthalgap": "320.8303223",
+          "magnitudeuncertainty": "0.1127622374",
+          "originerror": "0.7801615914",
+          "magnitudestationcount": "5"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            179.3256836,
+            -32.81359863
+          ]
+        },
+        "properties": {
+          "publicid": "2022p674583",
+          "eventtype": "earthquake",
+          "origintime": "2022-09-07T14:16:37.503Z",
+          "modificationtime": "2022-09-20T23:55:53.766Z",
+          "depth": "404.5901184",
+          "magnitude": "4.094212144",
+          "magnitudetype": "MLv",
+          "evaluationmethod": "LOCSAT",
+          "evaluationstatus": "confirmed",
+          "evaluationmode": "manual",
+          "earthmodel": "iasp91",
+          "usedphasecount": "22",
+          "usedstationcount": "18",
+          "minimumdistance": "5.462522507",
+          "azimuthalgap": "348.1448212",
+          "magnitudeuncertainty": "0.2109147185",
+          "originerror": "0.6756448443",
+          "magnitudestationcount": "3"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            176.1014709,
+            -40.93224716
+          ]
+        },
+        "properties": {
+          "publicid": "2022p674002",
+          "eventtype": "earthquake",
+          "origintime": "2022-09-07T09:08:38.262Z",
+          "modificationtime": "2022-09-07T09:17:04.856Z",
+          "depth": "22.15776443",
+          "magnitude": "4.112337034",
+          "magnitudetype": "M",
+          "evaluationmethod": "LOCSAT",
+          "evaluationstatus": "confirmed",
+          "evaluationmode": "manual",
+          "earthmodel": "iasp91",
+          "usedphasecount": "32",
+          "usedstationcount": "22",
+          "minimumdistance": "0.07911981642",
+          "azimuthalgap": "140.1567154",
+          "originerror": "0.2045352156",
+          "magnitudestationcount": "21"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            178.958786,
+            -34.1341362
+          ]
+        },
+        "properties": {
+          "publicid": "2022p673324",
+          "eventtype": "earthquake",
+          "origintime": "2022-09-07T03:06:55.848Z",
+          "modificationtime": "2022-09-20T23:11:27.867Z",
+          "depth": "346.4544983",
+          "magnitude": "4.416232173",
+          "magnitudetype": "MLv",
+          "evaluationmethod": "LOCSAT",
+          "evaluationstatus": "confirmed",
+          "evaluationmode": "manual",
+          "earthmodel": "iasp91",
+          "usedphasecount": "31",
+          "usedstationcount": "22",
+          "minimumdistance": "3.461591959",
+          "azimuthalgap": "291.9608002",
+          "magnitudeuncertainty": "0.1945208807",
+          "originerror": "0.7320998067",
+          "magnitudestationcount": "21"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -178.2668152,
+            -33.11692047
+          ]
+        },
+        "properties": {
+          "publicid": "2022p673278",
+          "eventtype": "earthquake",
+          "origintime": "2022-09-07T02:41:28.465Z",
+          "modificationtime": "2022-09-20T23:04:56.720Z",
+          "depth": "33",
+          "depthtype": "operator assigned",
+          "magnitude": "4.818155249",
+          "magnitudetype": "mB",
+          "evaluationmethod": "LOCSAT",
+          "evaluationstatus": "confirmed",
+          "evaluationmode": "manual",
+          "earthmodel": "iasp91",
+          "usedphasecount": "19",
+          "usedstationcount": "14",
+          "minimumdistance": "5.41650629",
+          "azimuthalgap": "316.6626129",
+          "magnitudeuncertainty": "0.08481991565",
+          "originerror": "0.7601862429",
+          "magnitudestationcount": "7"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            166.1239014,
+            -47.00423431
+          ]
+        },
+        "properties": {
+          "publicid": "2022p668840",
+          "eventtype": "earthquake",
+          "origintime": "2022-09-05T11:17:57.761Z",
+          "modificationtime": "2022-09-19T03:25:38.121Z",
+          "depth": "5",
+          "depthtype": "operator assigned",
+          "magnitude": "4.902838475",
+          "magnitudetype": "MLv",
+          "evaluationmethod": "LOCSAT",
+          "evaluationstatus": "confirmed",
+          "evaluationmode": "manual",
+          "earthmodel": "iasp91",
+          "usedphasecount": "22",
+          "usedstationcount": "15",
+          "minimumdistance": "0.9220449924",
+          "azimuthalgap": "301.8203468",
+          "magnitudeuncertainty": "0.21657044",
+          "originerror": "0.4780246232",
+          "magnitudestationcount": "19"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            179.5082855,
+            -34.5607338
+          ]
+        },
+        "properties": {
+          "publicid": "2022p667692",
+          "eventtype": "earthquake",
+          "origintime": "2022-09-05T01:06:14.191Z",
+          "modificationtime": "2022-09-19T03:13:58.035Z",
+          "depth": "232.102478",
+          "magnitude": "4.003037178",
+          "magnitudetype": "MLv",
+          "evaluationmethod": "LOCSAT",
+          "evaluationstatus": "confirmed",
+          "evaluationmode": "manual",
+          "earthmodel": "iasp91",
+          "usedphasecount": "21",
+          "usedstationcount": "15",
+          "minimumdistance": "3.149471521",
+          "azimuthalgap": "345.2875824",
+          "magnitudeuncertainty": "0.1211235095",
+          "originerror": "0.5602293266",
+          "magnitudestationcount": "10"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            179.9551849,
+            -33.18241501
+          ]
+        },
+        "properties": {
+          "publicid": "2022p666408",
+          "eventtype": "earthquake",
+          "origintime": "2022-09-04T13:41:24.660Z",
+          "modificationtime": "2022-09-19T02:51:25.131Z",
+          "depth": "332.5343018",
+          "magnitude": "4.006816697",
+          "magnitudetype": "MLv",
+          "evaluationmethod": "LOCSAT",
+          "evaluationstatus": "confirmed",
+          "evaluationmode": "manual",
+          "earthmodel": "iasp91",
+          "usedphasecount": "19",
+          "usedstationcount": "12",
+          "minimumdistance": "4.793910503",
+          "azimuthalgap": "338.3031921",
+          "originerror": "0.7910530749",
+          "magnitudestationcount": "1"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            167.3740997,
+            -45.0778656
+          ]
+        },
+        "properties": {
+          "publicid": "2022p662739",
+          "eventtype": "earthquake",
+          "origintime": "2022-09-03T05:07:29.996Z",
+          "modificationtime": "2022-09-14T02:22:06.974Z",
+          "depth": "96.99494934",
+          "magnitude": "4.141143874",
+          "magnitudetype": "MLv",
+          "evaluationmethod": "LOCSAT",
+          "evaluationstatus": "confirmed",
+          "evaluationmode": "manual",
+          "earthmodel": "tab",
+          "usedphasecount": "27",
+          "usedstationcount": "16",
+          "minimumdistance": "0.35310781",
+          "azimuthalgap": "166.6482353",
+          "magnitudeuncertainty": "0.2309880388",
+          "originerror": "0.2964682599",
+          "magnitudestationcount": "19"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -179.1344757,
+            -34.62401199
+          ]
+        },
+        "properties": {
+          "publicid": "2022p657816",
+          "eventtype": "earthquake",
+          "origintime": "2022-09-01T09:23:58.746Z",
+          "modificationtime": "2022-09-13T23:26:17.852Z",
+          "depth": "100",
+          "depthtype": "operator assigned",
+          "magnitude": "4.295719196",
+          "magnitudetype": "mB",
+          "evaluationmethod": "LOCSAT",
+          "evaluationstatus": "confirmed",
+          "evaluationmode": "manual",
+          "earthmodel": "tab",
+          "usedphasecount": "19",
+          "usedstationcount": "12",
+          "minimumdistance": "3.753786325",
+          "azimuthalgap": "328.8647308",
+          "originerror": "0.7419046907",
+          "magnitudestationcount": "1"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            178.1162567,
+            -35.83776093
+          ]
+        },
+        "properties": {
+          "publicid": "2022p657294",
+          "eventtype": "earthquake",
+          "origintime": "2022-09-01T04:46:42.888Z",
+          "modificationtime": "2022-09-13T23:20:21.556Z",
+          "depth": "188.0873718",
+          "magnitude": "4.001480348",
+          "magnitudetype": "MLv",
+          "evaluationmethod": "LOCSAT",
+          "evaluationstatus": "confirmed",
+          "evaluationmode": "manual",
+          "earthmodel": "tab",
+          "usedphasecount": "28",
+          "usedstationcount": "20",
+          "minimumdistance": "1.727942944",
+          "azimuthalgap": "254.9967651",
+          "magnitudeuncertainty": "0.2591118743",
+          "originerror": "0.5331257744",
+          "magnitudestationcount": "46"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            179.5917816,
+            -33.20191956
+          ]
+        },
+        "properties": {
+          "publicid": "2022p655694",
+          "eventtype": "earthquake",
+          "origintime": "2022-08-31T14:33:07.347Z",
+          "modificationtime": "2022-09-13T21:52:57.454Z",
+          "depth": "335.1288452",
+          "magnitude": "4.196115308",
+          "magnitudetype": "mB",
+          "evaluationmethod": "LOCSAT",
+          "evaluationstatus": "confirmed",
+          "evaluationmode": "manual",
+          "earthmodel": "tab",
+          "usedphasecount": "18",
+          "usedstationcount": "12",
+          "minimumdistance": "4.705877781",
+          "azimuthalgap": "348.7136536",
+          "magnitudeuncertainty": "0.4938430862",
+          "originerror": "0.4317425515",
+          "magnitudestationcount": "2"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            177.5805969,
+            -37.02616119
+          ]
+        },
+        "properties": {
+          "publicid": "2022p652982",
+          "eventtype": "earthquake",
+          "origintime": "2022-08-30T14:29:04.015Z",
+          "modificationtime": "2022-09-13T03:22:35.699Z",
+          "depth": "107.0095673",
+          "magnitude": "4.129516513",
+          "magnitudetype": "MLv",
+          "evaluationmethod": "LOCSAT",
+          "evaluationstatus": "confirmed",
+          "evaluationmode": "manual",
+          "earthmodel": "tab",
+          "usedphasecount": "25",
+          "usedstationcount": "21",
+          "minimumdistance": "0.7461870313",
+          "azimuthalgap": "194.9467773",
+          "magnitudeuncertainty": "0.307941277",
+          "originerror": "0.3326453424",
+          "magnitudestationcount": "102"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -178.5215149,
+            -33.25400543
+          ]
+        },
+        "properties": {
+          "publicid": "2022p651919",
+          "eventtype": "earthquake",
+          "origintime": "2022-08-30T05:01:16.964Z",
+          "modificationtime": "2022-09-13T03:01:05.296Z",
+          "depth": "33",
+          "depthtype": "operator assigned",
+          "magnitude": "4.649082301",
+          "magnitudetype": "MLv",
+          "evaluationmethod": "LOCSAT",
+          "evaluationstatus": "confirmed",
+          "evaluationmode": "manual",
+          "earthmodel": "tab",
+          "usedphasecount": "18",
+          "usedstationcount": "13",
+          "minimumdistance": "4.012763023",
+          "azimuthalgap": "164.926065",
+          "magnitudeuncertainty": "0.1739023145",
+          "originerror": "2.002031701",
+          "magnitudestationcount": "9"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -178.4707642,
+            -32.89428329
+          ]
+        },
+        "properties": {
+          "publicid": "2022p650700",
+          "eventtype": "outside of network interest",
+          "origintime": "2022-08-29T18:10:49.531Z",
+          "modificationtime": "2022-08-29T19:31:19.989Z",
+          "depth": "33",
+          "depthtype": "operator assigned",
+          "magnitude": "6.072404402",
+          "magnitudetype": "mB",
+          "evaluationmethod": "LOCSAT",
+          "evaluationstatus": "confirmed",
+          "evaluationmode": "manual",
+          "earthmodel": "iasp91",
+          "usedphasecount": "24",
+          "usedstationcount": "21",
+          "minimumdistance": "3.66750598",
+          "azimuthalgap": "165.4678965",
+          "magnitudeuncertainty": "0.1708955378",
+          "originerror": "1.374722863",
+          "magnitudestationcount": "16"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            179.8668365,
+            -32.63075638
+          ]
+        },
+        "properties": {
+          "publicid": "2022p646610",
+          "eventtype": "earthquake",
+          "origintime": "2022-08-28T05:53:22.773Z",
+          "modificationtime": "2022-09-12T22:19:45.731Z",
+          "depth": "378.1656494",
+          "magnitude": "4.716779709",
+          "magnitudetype": "MLv",
+          "evaluationmethod": "LOCSAT",
+          "evaluationstatus": "confirmed",
+          "evaluationmode": "manual",
+          "earthmodel": "iasp91",
+          "usedphasecount": "27",
+          "usedstationcount": "19",
+          "minimumdistance": "5.083570004",
+          "azimuthalgap": "311.2324371",
+          "magnitudeuncertainty": "0.1041407726",
+          "originerror": "0.9429013041",
+          "magnitudestationcount": "9"
+        }
+      }
+    ]
+  }

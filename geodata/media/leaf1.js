@@ -1,22 +1,10 @@
 var map;
 
-function sortIpKey(v) {
-    if (/\./.test(v)) {
-        // Assume IPv4. Convert 192.0.2.34 -> 192.000.002.034 for alpha sort.
-        return v.replace(/\b\d\b/g, '00$&').replace(/\b\d{2}\b/g, '0$&');
-    } else {
-        // Assume IPv6. We won't handle :: correctly. Hope for the best.
-        return v;
-    }
-}
-
 function escapeHtml(text) {
     if (!text) return '';
     return text.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
 }
 function sanitizeHtml(text) {
-    // Handle legacy data containing <div class="geoip_property">...</div>
-    // (since Wireshark 2.0) or <br/> (before v1.99.0-rc1-1781-g7e63805708).
     text = text
         .replace(/<div[^>]*>/g, '')
         .replace(/<\/div>|<br\/>/g, '\n')
@@ -94,11 +82,7 @@ function loadGeoJSON(obj) {
 
     var geoJson = L.geoJSON(obj, {
         pointToLayer: function(feature, latlng) {
-            // MaxMind databases use km for accuracy, but they always use
-            // 50, 100, 200 or 1000. That is too course, so ignore it and use a
-            // fixed 1km radius.
-            // See https://gitlab.com/wireshark/wireshark/-/issues/14693#note_400735005
-            return L.circle(latlng, {radius: 1e3});
+             return L.circle(latlng, {radius: 1e3});
         },
         onEachFeature: function(feature, layer) {
             var props = feature.properties;
@@ -121,6 +105,9 @@ function loadGeoJSON(obj) {
                 }
                 if ('depth' in props) {
                     lines.push(escapeHtml("Depth (km): " + props.depth));
+                }
+                if ('sig' in props) {
+                    lines.push(escapeHtml("Depth (km): " + props.sig));
                 }
                 if ('magnitude' in props) {
                     lines.push(escapeHtml("Magnitude: " + props.magnitude));
@@ -223,7 +210,6 @@ function loadGeoJSON(obj) {
 
     // Summarize nodes within the cluster.
     clusterGroup.on('clustermouseover', function(ev) {
-        // More addresses will be stripped.
         var cutoff = 30;
         var cluster = ev.propagatedFrom;
         var addresses = cluster.getAllChildMarkers().map(function(marker) {
